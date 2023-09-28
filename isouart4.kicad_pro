@@ -84,7 +84,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -460,7 +460,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2032,
+        "clearance": 0.2,
         "diff_pair_gap": 0.13,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 1.0,
@@ -808,11 +808,7 @@
     ],
     [
       "2d235b8c-e233-4472-a8af-47eb53407ee3",
-      "USB2-UART4"
-    ],
-    [
-      "cd7e2163-e08f-4cc8-b5c0-cec347de14ac",
-      "FT4232 indicators"
+      "USB-UART4-CH344Q"
     ],
     [
       "958710c5-0600-4104-a764-b45629adc817",
