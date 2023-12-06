@@ -885,7 +885,7 @@
     (property "Reference" "C21" (at 203.835 92.71 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1uF" (at 203.2 90.805 90)
+    (property "Value" "100n" (at 203.2 90.805 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 203.2 96.52 0)
