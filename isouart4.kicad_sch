@@ -1798,7 +1798,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 129.54 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 14046bed-dd3f-42b6-9fc6-807ab52c3203)
-    (property "Reference" "#FLG03" (at 239.395 129.54 0)
+    (property "Reference" "#FLG05" (at 239.395 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 129.54 90)
@@ -1814,7 +1814,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG03") (unit 1)
+          (reference "#FLG05") (unit 1)
         )
       )
     )
@@ -1823,7 +1823,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 180.34 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22bf906b-1e6d-4b1f-ab7c-e99549cedfa5)
-    (property "Reference" "#FLG01" (at 239.395 180.34 0)
+    (property "Reference" "#FLG09" (at 239.395 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 180.34 90)
@@ -1839,7 +1839,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG01") (unit 1)
+          (reference "#FLG09") (unit 1)
         )
       )
     )
@@ -1873,7 +1873,7 @@
           (reference "C1") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C11") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -2026,7 +2026,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 93.345 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a57415c-2112-40e4-9c1c-6f5d0190db4b)
-    (property "Reference" "C2" (at 88.265 93.98 0)
+    (property "Reference" "C1" (at 88.265 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 86.995 97.155 0)
@@ -2043,7 +2043,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C2") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -2052,7 +2052,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 147.32 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4cc5a53b-283b-4b1f-902c-b87311ca5a82)
-    (property "Reference" "#FLG08" (at 239.395 147.32 0)
+    (property "Reference" "#FLG06" (at 239.395 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 147.32 90)
@@ -2068,7 +2068,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG08") (unit 1)
+          (reference "#FLG06") (unit 1)
         )
       )
     )
@@ -2131,7 +2131,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 102.235 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 53533c29-933c-4140-9603-95ac2c29e726)
-    (property "Reference" "#FLG010" (at 102.235 141.605 0)
+    (property "Reference" "#FLG02" (at 102.235 141.605 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 102.235 139.065 0)
@@ -2147,7 +2147,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG010") (unit 1)
+          (reference "#FLG02") (unit 1)
         )
       )
     )
@@ -2156,7 +2156,7 @@
   (symbol (lib_id "Regulator_Linear:AMS1117-3.3") (at 107.95 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60865f91-3b13-4764-92ec-a773dd23bfdb)
-    (property "Reference" "U3" (at 107.95 82.55 0)
+    (property "Reference" "U1" (at 107.95 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AMS1117-3.3" (at 107.95 85.09 0)
@@ -2174,7 +2174,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "U3") (unit 1)
+          (reference "U1") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "U3") (unit 1)
@@ -2211,7 +2211,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C10") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -2220,7 +2220,7 @@
   (symbol (lib_id "isouart4:π122U31") (at 213.36 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67821bf6-f0f6-4c26-ae87-ac1b7729df3a)
-    (property "Reference" "U2" (at 213.36 124.46 0)
+    (property "Reference" "U3" (at 213.36 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "π122U31" (at 213.36 127 0)
@@ -2243,7 +2243,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "U2") (unit 1)
+          (reference "U3") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "U6") (unit 1)
@@ -2255,7 +2255,7 @@
   (symbol (lib_id "power:GND") (at 199.39 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78b4cc92-80f5-43f9-9e39-15a002d8c512)
-    (property "Reference" "#PWR013" (at 199.39 173.99 0)
+    (property "Reference" "#PWR06" (at 199.39 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 199.39 172.72 0)
@@ -2271,7 +2271,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "#PWR02") (unit 1)
@@ -2283,7 +2283,7 @@
   (symbol (lib_id "power:GND") (at 199.39 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f7cffd5-9199-447c-ab84-583c7a6603be)
-    (property "Reference" "#PWR014" (at 199.39 199.39 0)
+    (property "Reference" "#PWR07" (at 199.39 199.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 199.39 198.12 0)
@@ -2299,7 +2299,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "#PWR02") (unit 1)
@@ -2311,7 +2311,7 @@
   (symbol (lib_id "power:GND") (at 199.39 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 84499a83-36af-4649-ba9a-207c6df4be76)
-    (property "Reference" "#PWR09" (at 199.39 123.19 0)
+    (property "Reference" "#PWR04" (at 199.39 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 195.58 118.745 0)
@@ -2327,7 +2327,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "#PWR02") (unit 1)
@@ -2365,7 +2365,7 @@
   (symbol (lib_id "power:GND") (at 199.39 142.24 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 84eb0363-77fd-45de-9f04-178a92c27b6f)
-    (property "Reference" "#PWR04" (at 199.39 148.59 0)
+    (property "Reference" "#PWR05" (at 199.39 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 195.58 144.145 0)
@@ -2381,7 +2381,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "#PWR02") (unit 1)
@@ -2393,7 +2393,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 93.345 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8752aa59-5e83-4d40-be9f-fa8a7f6b16ca)
-    (property "Reference" "#FLG09" (at 93.345 86.995 0)
+    (property "Reference" "#FLG01" (at 93.345 86.995 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 93.345 84.455 0)
@@ -2409,7 +2409,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG09") (unit 1)
+          (reference "#FLG01") (unit 1)
         )
       )
     )
@@ -2418,7 +2418,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 172.72 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a91d6a3-0d70-45d7-a30f-3cee4c993498)
-    (property "Reference" "#FLG06" (at 239.395 172.72 0)
+    (property "Reference" "#FLG08" (at 239.395 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 172.72 90)
@@ -2434,7 +2434,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG06") (unit 1)
+          (reference "#FLG08") (unit 1)
         )
       )
     )
@@ -2443,7 +2443,7 @@
   (symbol (lib_id "isouart4:π122U31") (at 213.36 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 93a7a0de-5c85-4a91-8744-04f464c931ee)
-    (property "Reference" "U6" (at 213.36 99.06 0)
+    (property "Reference" "U2" (at 213.36 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "π122U31" (at 213.36 101.6 0)
@@ -2466,7 +2466,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "U6") (unit 1)
+          (reference "U2") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/2d235b8c-e233-4472-a8af-47eb53407ee3"
           (reference "U6") (unit 1)
@@ -2478,7 +2478,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 96577784-fdba-47d9-af87-699d1ca1c890)
-    (property "Reference" "#FLG05" (at 239.395 119.38 0)
+    (property "Reference" "#FLG04" (at 239.395 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 119.38 90)
@@ -2494,7 +2494,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG05") (unit 1)
+          (reference "#FLG04") (unit 1)
         )
       )
     )
@@ -2503,7 +2503,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ba60d12-bac6-461d-b6aa-43146300af46)
-    (property "Reference" "#FLG04" (at 241.3 102.235 0)
+    (property "Reference" "#FLG03" (at 241.3 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 241.3 100.33 90)
@@ -2519,7 +2519,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG04") (unit 1)
+          (reference "#FLG03") (unit 1)
         )
       )
     )
@@ -2588,7 +2588,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C8") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -2625,7 +2625,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 198.12 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a74bd69c-0116-4552-876e-d20267af2538)
-    (property "Reference" "#FLG07" (at 239.395 198.12 0)
+    (property "Reference" "#FLG010" (at 239.395 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 198.12 90)
@@ -2641,7 +2641,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG07") (unit 1)
+          (reference "#FLG010") (unit 1)
         )
       )
     )
@@ -2675,7 +2675,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C9") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -2819,7 +2819,7 @@
           (reference "R1") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "R25") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2828,7 +2828,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 241.3 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e338883f-6554-4bcd-86e9-b30f9bbed8ef)
-    (property "Reference" "#FLG02" (at 239.395 154.94 0)
+    (property "Reference" "#FLG07" (at 239.395 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 237.49 154.94 90)
@@ -2844,7 +2844,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "#FLG02") (unit 1)
+          (reference "#FLG07") (unit 1)
         )
       )
     )
@@ -2853,7 +2853,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 121.92 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e94c3516-73d6-41eb-aeec-125fbbccb439)
-    (property "Reference" "C7" (at 116.84 92.71 0)
+    (property "Reference" "C2" (at 116.84 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 115.57 95.885 0)
@@ -2870,7 +2870,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C7") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -2904,7 +2904,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C3") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
