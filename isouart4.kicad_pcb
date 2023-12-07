@@ -5056,7 +5056,7 @@
       (net 6 "/USB-UART4-CH344Q/XO") (pinfunction "3") (pintype "passive") (tstamp d0e3e5cd-98ee-421f-8cea-d34dbeb4a635))
     (pad "4" smd rect (at -2.95 1.35 45) (size 2.1 1.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (pinfunction "GND") (pintype "passive") (tstamp 6aa82aa8-2b02-4a5a-8a72-44cc91780d81))
-    (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_7050-4Pin_7.0x5.0mm.wrl"
+    (model "${KIPRJMOD}/Crystal_SMD_7050-4Pin_7.0x5.0mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
