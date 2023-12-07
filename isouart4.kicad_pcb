@@ -2055,7 +2055,7 @@
       (net 107 "Net-(F1-Pad2)") (pintype "passive") (tstamp 8d2ec728-14c6-4b00-ae13-cf7b9f67d9fd))
     (pad "2" smd rect (at 1.25 0 90) (size 1 1.5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 8 "Net-(U1-VI)") (pintype "passive") (tstamp 03701fd4-e8c0-49f5-9693-d73efd3ecccf))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV25_2.5x2.0mm.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2323,7 +2323,7 @@
       (net 104 "/GNDUSBCONN") (pintype "passive") (tstamp 165da895-8b08-409d-ba53-646fa202d9dc))
     (pad "2" smd rect (at 1.25 0 270) (size 1 1.5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (pintype "passive") (tstamp 40a540a7-4828-4927-a345-dde19b9c8b9c))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV25_2.5x2.0mm.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3155,7 +3155,7 @@
       (net 20 "Net-(C12-Pad2)") (pintype "passive") (tstamp 5003f6cc-c62f-43c0-b6c6-f6f2da83b592))
     (pad "2" smd rect (at 1.25 0 45) (size 1 1.5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 5 "/USB-UART4-CH344Q/VIN 3.3V") (pintype "passive") (tstamp a2e1ba41-6482-4f9b-a8ee-3e158f8be06b))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV25_2.5x2.0mm.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
