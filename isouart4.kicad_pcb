@@ -14177,7 +14177,7 @@
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
-        (xy 197.61 47.05)
+        (xy 197.61 47.04)
         (xy 194.78 47.04)
         (xy 194.81 132.01)
         (xy 197.59 132.01)
