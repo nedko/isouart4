@@ -4,7 +4,7 @@
   (property "Sheetname" "")
   (property "ki_description" "Fuse, small symbol")
   (property "ki_keywords" "fuse")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "F1" (at 2 -5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 69dbe905-05a8-40af-8775-548dc849fab1)
@@ -37,6 +37,8 @@
     (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 1a7240a4-22ea-4eaf-b31e-7a82ffacdf91))
   (fp_line (start 10.922 0.254) (end 10.922 -4.064)
     (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 27a41ca3-1b1a-4a5f-b3f9-f01dc7dfad03))
+  (fp_rect (start -1.016 -5.588) (end 11.684 1.778)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 2e60bcda-5ef5-4df1-91b0-5d507830fe20))
   (pad "1" smd rect (at 2.1 -1.9) (size 4.24 3.81) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a6f7e52-799b-4a74-a39a-31df0cf84d9a))
   (pad "2" smd rect (at 8.5 -1.9) (size 4.24 3.81) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cff0f165-4b17-48c2-9a03-34848dbd029a))
   (model "/home/nedko/git/isouart4/anotherfuse/fuseasm.STEP"
