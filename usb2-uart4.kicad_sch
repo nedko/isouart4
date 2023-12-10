@@ -2001,7 +2001,7 @@
     (property "Value" "8MHz" (at 137.16 106.045 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Crystal:Crystal_SMD_7050-4Pin_7.0x5.0mm" (at 125.73 110.49 0)
+    (property "Footprint" "isouart4:Crystal_SMD_7050-4Pin_7.0x5.0mm" (at 125.73 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 139.7 113.03 0)
