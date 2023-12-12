@@ -576,7 +576,7 @@
   (symbol (lib_id "Device:C_Small") (at 90.17 108.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32ded280-4dcd-4724-ac57-e86f52e80f63)
-    (property "Reference" "C18" (at 85.09 109.855 0)
+    (property "Reference" "C20" (at 85.09 109.855 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 85.725 111.76 0)
@@ -593,16 +593,16 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/958710c5-0600-4104-a764-b45629adc817"
-          (reference "C18") (unit 1)
+          (reference "C20") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/80cea6f2-87b4-4a40-8c2f-e4524d3d8e29"
-          (reference "C21") (unit 1)
+          (reference "C23") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/b1d70d56-3a6d-4a09-94ea-3708cca9e5ca"
-          (reference "C24") (unit 1)
+          (reference "C26") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/4a921ac0-5400-4f95-9340-83876c5a92c2"
-          (reference "C27") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -882,7 +882,7 @@
   (symbol (lib_id "Device:C_Small") (at 203.2 96.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a58eca81-461a-4c1b-9396-38c29b62778b)
-    (property "Reference" "C20" (at 203.835 92.71 90)
+    (property "Reference" "C22" (at 203.835 92.71 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 203.2 90.805 90)
@@ -899,16 +899,16 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/958710c5-0600-4104-a764-b45629adc817"
-          (reference "C20") (unit 1)
+          (reference "C22") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/80cea6f2-87b4-4a40-8c2f-e4524d3d8e29"
-          (reference "C23") (unit 1)
+          (reference "C25") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/b1d70d56-3a6d-4a09-94ea-3708cca9e5ca"
-          (reference "C26") (unit 1)
+          (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/4a921ac0-5400-4f95-9340-83876c5a92c2"
-          (reference "C29") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -955,7 +955,7 @@
   (symbol (lib_id "Device:C_Small") (at 140.335 108.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b58ee58a-2394-421e-a842-6d108ea0274c)
-    (property "Reference" "C19" (at 135.255 109.855 0)
+    (property "Reference" "C21" (at 135.255 109.855 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 135.89 111.76 0)
@@ -972,16 +972,16 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/958710c5-0600-4104-a764-b45629adc817"
-          (reference "C19") (unit 1)
+          (reference "C21") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/80cea6f2-87b4-4a40-8c2f-e4524d3d8e29"
-          (reference "C22") (unit 1)
+          (reference "C24") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/b1d70d56-3a6d-4a09-94ea-3708cca9e5ca"
-          (reference "C25") (unit 1)
+          (reference "C27") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c/4a921ac0-5400-4f95-9340-83876c5a92c2"
-          (reference "C28") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )

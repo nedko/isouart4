@@ -1788,7 +1788,7 @@
           (reference "C1") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C3") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -1850,7 +1850,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C30") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -2160,7 +2160,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C7") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -2511,7 +2511,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C5") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -2598,7 +2598,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C6") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -2632,7 +2632,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C31") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -2810,7 +2810,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 121.92 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e94c3516-73d6-41eb-aeec-125fbbccb439)
-    (property "Reference" "C2" (at 121.285 99.695 0)
+    (property "Reference" "C4" (at 121.285 99.695 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.3uF" (at 121.285 102.87 0)
@@ -2827,7 +2827,7 @@
     (instances
       (project "isouart4"
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C2") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -2861,7 +2861,7 @@
           (reference "C28") (unit 1)
         )
         (path "/7c54d849-3d49-4f8e-b560-9dd1d738085c"
-          (reference "C4") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
