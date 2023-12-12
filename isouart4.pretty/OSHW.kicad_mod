@@ -1,14 +1,14 @@
 (footprint "OSHW" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (fp_text reference "REF**" (at -3.81 -2.032 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 3.556 -10.668 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 73b9c57d-2f16-4951-9038-3081dc1f3af6)
   )
-  (fp_text value "OSHW" (at -4.064 1 unlocked) (layer "F.Fab") hide
+  (fp_text value "OSHW" (at 3.302 -7.636 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 34c9c5fb-5f8a-4573-b58e-ab1dd230e0e8)
   )
-  (fp_text user "${REFERENCE}" (at -1.524 3.81 unlocked) (layer "F.Fab") hide
+  (fp_text user "${REFERENCE}" (at 5.842 -4.826 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5b1304c0-68bc-426e-a90b-a0e0ef27f358)
   )
