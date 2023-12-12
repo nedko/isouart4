@@ -4,6 +4,10 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Galvanically Isolated USB attached Quad UART")
+  )
+
   (lib_symbols
     (symbol "Device:FerriteBead_Small" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 1.905 1.27 0)
@@ -1683,6 +1687,11 @@
   (wire (pts (xy 123.825 85.09) (xy 117.475 85.09))
     (stroke (width 0) (type default))
     (uuid fe6ba4d4-d29c-4f61-aa40-f53a8933bef1)
+  )
+
+  (text "USB-UART" (at 182.88 176.53 0)
+    (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
+    (uuid 5287226d-12dc-4f73-9d9a-f3cea2cf9d44)
   )
 
   (label "XO" (at 131.445 109.22 0) (fields_autoplaced)

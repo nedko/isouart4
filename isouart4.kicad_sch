@@ -4,6 +4,10 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Galvanically Isolated USB attached Quad UART")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_B" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -5.08 11.43 0)
@@ -1691,6 +1695,11 @@
   (wire (pts (xy 42.545 27.305) (xy 42.545 36.83))
     (stroke (width 0) (type default))
     (uuid ff266329-3262-49e5-bfcb-5ce4c3c51df5)
+  )
+
+  (text "Connectors, 3.3V regulator and isolators" (at 182.245 175.895 0)
+    (effects (font (size 3 3)) (justify left bottom))
+    (uuid cf398a96-c246-4544-90e9-1b3a2a310b17)
   )
 
   (label "USBSHLD" (at 43.815 106.68 0) (fields_autoplaced)
