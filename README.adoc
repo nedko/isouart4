@@ -11,6 +11,7 @@ isouart4 - OSHW Galvanically Isolated USB attached Quad UART
 This is Work In Progress.
 
 link:bom/ibom.html[BOM - Bill Of Materials]
+link:isouart4_sch.pdf[Schematic PDF]
 
 link:https://gitea.ladish.org/nedko/isouart4[KiCAD sources via Git]
 
