@@ -16,6 +16,6 @@ link:isouart4_sch.pdf[Schematic PDF]
 
 link:https://gitea.ladish.org/nedko/isouart4[KiCAD sources via Git]
 
-image:isouart4-bottom.png[PCB bottom]
+image:isouart4-bottom.jpg[PCB bottom]
 
-image:isouart4-top.png[PCB top]
+image:isouart4-top.jpg[PCB top]
