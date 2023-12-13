@@ -19,3 +19,7 @@ link:https://gitea.ladish.org/nedko/isouart4[KiCAD sources via Git]
 image:isouart4-bottom.jpg[PCB bottom]
 
 image:isouart4-top.jpg[PCB top]
+
+== See also
+
+ * link:https://github.com/hexeguitar/4WD_UART[4WD_UART by Piotr Zapart] is similar project that heavily influenced isouart4 design
