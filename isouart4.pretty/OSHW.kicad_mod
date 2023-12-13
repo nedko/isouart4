@@ -1,5 +1,6 @@
 (footprint "OSHW" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (attr exclude_from_bom allow_missing_courtyard)
   (fp_text reference "REF**" (at 3.556 -10.668 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 73b9c57d-2f16-4951-9038-3081dc1f3af6)
