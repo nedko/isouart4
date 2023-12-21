@@ -14,7 +14,7 @@ link:bom/ibom.html[BOM - Bill Of Materials]
 
 link:isouart4_sch.pdf[Schematic PDF]
 
-link:https://gitea.ladish.org/nedko/isouart4[KiCAD sources via Git]
+link:https://gitea.ladish.org/nedko/isouart4[Project files] for link:https://kicad.org/[KiCAD]
 
 image:isouart4-bottom.jpg[PCB bottom]
 
